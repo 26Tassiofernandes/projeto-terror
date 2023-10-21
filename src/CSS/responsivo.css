@@ -2,6 +2,11 @@
 
 @media (max-width: 1040px) {
 
+    body {
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+
     /*======= NOME E DESCRIÇÃO DO PERSONAGEM ========*/
 
     h2.nome-personagem {
@@ -97,6 +102,11 @@
 /*======= PARA TELAS PEQUENAS ========*/
 
 @media (max-width: 425px) {
+
+    body {
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
 
     /* ======= CONTEÚDO ========*/
 
