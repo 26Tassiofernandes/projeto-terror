@@ -1,0 +1,119 @@
+body {
+    background-color: black;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+/*======= CONFIGURAR PERSONAGENS ========*/
+
+main .personagem {
+    display: none;
+    height: 120vh;
+}
+
+main .personagem.selecionado {
+    display: block;
+    height: 120vh;
+}
+
+/*======= CONFIGURAR IMAGENS ========*/
+
+main.personagens img.imagem {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+main.personagens img.imagem-leatherface {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+
+}
+
+/*======= CONFIGURAR CONTEÚDO ========*/
+
+div.conteudo {
+    position: absolute;
+    top: 0;
+    left: 50px;
+    min-height: 100vh;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    width: 390px;
+}
+
+/*======= NOME E DESCRIÇÃO DO PERSONAGEM ========*/
+
+h2.nome-personagem {
+    font-family: 'Secular One';
+    font-size: 49px;
+    margin-bottom: 15px;
+    font-weight: 100;
+    text-shadow: 1px 2px 3px black;
+}
+
+p.descricao-personagem {
+    font-family: 'Rubik';
+    font-size: 20px;
+    text-shadow: 1px 2px 3px black;
+}
+
+/*======= LOGO ========*/
+
+i.logo > img {
+    pointer-events: none;
+    position: relative;
+    bottom: 20px;
+}
+
+i.logo > img.friday13-logo {
+    right: -50px;
+    width: 200px;
+    
+}
+
+i.logo > img.halloween-logo {
+    width: 470px;
+    
+}
+
+i.logo > img.chainsaw-logo {
+    width: 440px;
+    bottom: 20px;
+    right: 20px;
+}
+
+/*======= BOTÕES ========*/
+
+ul.botoes-personagens {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+    background-color: rgb(0, 0, 0, 0.411);
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+ul.botoes-personagens img {
+    width: 100px;
+    cursor: pointer;
+    border-radius: 50%;
+    transition: all .5s;
+    margin-top: 35px;
+}
+
+ul.botoes-personagens img:hover {
+    transform: scale(1.1);
+    transition: all .5s;
+    box-shadow: 0 0 10px white;
+}
+
+ul.botoes-personagens .selecionado img {
+    border-radius: 50%;
+    box-shadow: 0 0 10px white;
+}
