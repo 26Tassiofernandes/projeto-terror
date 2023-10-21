@@ -94,7 +94,6 @@
 
     ul.botoes-personagens img {
         width: 70px;
-        position: fixed;
     }
 
 
@@ -184,12 +183,6 @@
     ul.botoes-personagens {
         gap: 15px;
     }
-
-    ul.botoes-personagens img {
-        position: fixed;
-    }
-
-
 
 
 
