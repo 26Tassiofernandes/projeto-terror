@@ -1,6 +1,7 @@
 body {
     background-color: black;
-    overflow: hidden;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 /*======= CONFIGURAR PERSONAGENS ========*/
@@ -89,11 +90,12 @@ ul.botoes-personagens {
     position: fixed;
     top: 0;
     right: 0;
-    height: 100%;
+    min-height: 100vh;
     background-color: rgb(0, 0, 0, 0.411);
     padding: 40px;
     justify-content: center;
     align-items: center;
+    gap: 30px;
 }
 
 ul.botoes-personagens img {
@@ -101,7 +103,6 @@ ul.botoes-personagens img {
     cursor: pointer;
     border-radius: 50%;
     transition: all .5s;
-    margin-top: 35px;
 }
 
 ul.botoes-personagens img:hover {

@@ -80,6 +80,10 @@
 
 @media (max-width: 425px)  {
 
+    div.conteudo {
+        top: -30%;
+    }
+
     /*==== IMAGEM ==== */
 
     main.personagens img.imagem {
@@ -118,6 +122,11 @@
     }
 
     /*======= BOTÕES ========*/
+
+    ul.botoes-personagens {
+        top: -5%;
+
+    }
 
     ul.botoes-personagens img {
         width: 60px;
