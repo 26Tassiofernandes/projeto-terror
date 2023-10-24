@@ -1,5 +1,6 @@
 @media (max-width: 769px) {
 
+
     main::after {
         content: "";
         position: fixed;
@@ -79,6 +80,10 @@
 /*=== PARA TELAS MENORES ===*/
 
 @media (max-width: 425px)  {
+
+    body {
+        overflow: scroll;
+    }
 
     div.conteudo {
         top: -30%;
