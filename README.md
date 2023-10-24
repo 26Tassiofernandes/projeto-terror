@@ -8,7 +8,7 @@
 
 ### Link do projeto 🔗
 
-<a href="https://26tassiofernandes.github.io/projeto-terror/" rel="external">ProjetoTerror</a> <br>
+<a href="https://26tassiofernandes.github.io/projeto-terror/" rel="external">Projeto Terror</a> <br>
 
 <img alt="Projeto Terror" src="https://github.com/26Tassiofernandes/projeto-terror/assets/86972667/3726f2b4-5b52-43dc-a946-ff45f64bdabb">
 
