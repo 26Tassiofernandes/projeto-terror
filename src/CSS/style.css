@@ -25,12 +25,6 @@ main.personagens img.imagem {
     object-fit: cover;
 }
 
-main.personagens img.imagem-leatherface {
-    width: 100%;
-    height: 100vh;
-    object-fit: cover;
-
-}
 
 /*======= CONFIGURAR CONTEÚDO ========*/
 
@@ -45,6 +39,7 @@ div.conteudo {
     color: white;
     width: 390px;
 }
+
 
 /*======= NOME E DESCRIÇÃO DO PERSONAGEM ========*/
 
@@ -83,13 +78,14 @@ i.logo > img.halloween-logo {
 
 i.logo > img.chainsaw-logo {
     width: 440px;
-    bottom: 20px;
     right: 20px;
 }
 
 /*======= BOTÕES ========*/
 
 ul.botoes-personagens {
+    display: flex;
+    flex-direction: column;
     position: fixed;
     top: 0;
     right: 0;

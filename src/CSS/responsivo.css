@@ -15,10 +15,6 @@
         height: 85%;
     }
 
-    main.personagens img.imagem-leatherface {
-        height: 85%;
-    }
-
     /*==== CONTEÚDO ==== */
 
     div.conteudo {
@@ -58,8 +54,6 @@
 
     i.logo > img.chainsaw-logo {
         width: 350px;
-        bottom: 90px;
-        align-items: center;
     }
 
     /*======= BOTÕES ========*/
@@ -78,7 +72,6 @@
     ul.botoes-personagens img {
         width: 80px;
     }
-    
 
 }
 
@@ -120,9 +113,8 @@
     }
 
     i.logo > img.chainsaw-logo {
-        width: 290px;
-        bottom: 130px;
-        
+        width: 200px;
+                
     }
 
     /*======= BOTÕES ========*/
