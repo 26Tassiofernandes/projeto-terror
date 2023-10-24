@@ -76,14 +76,9 @@
 
 }
 
-
 /*=== PARA TELAS MENORES ===*/
 
 @media (max-width: 425px)  {
-
-    body {
-        overflow: scroll;
-    }
 
     div.conteudo {
         top: -30%;
@@ -134,7 +129,7 @@
     }
 
     ul.botoes-personagens img {
-        width: 60px;
+        max-width: 60px;
     }
 
 }
