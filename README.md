@@ -14,7 +14,6 @@
 
 </div>
 
-
 ##
 
 ### 📜 Descrição 
@@ -33,7 +32,14 @@ O projeto terror é uma interface intuitiva que mostra os principais personagens
 
 ##
 
-### ✏️ Licença 
+### Requisitos
+
+- Navegador da Web Moderno
+
+##
+
+### ✏️ Licença
+
 Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.
 
 ##
