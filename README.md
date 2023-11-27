@@ -34,7 +34,7 @@ O projeto terror é uma interface intuitiva que mostra os principais personagens
 
 ### ⚙ Requisitos
 
-- Navegador da Web Moderno
+- Ter um navegador da Web Moderno instalado em sua máquina.
 
 ##
 
