@@ -32,13 +32,13 @@ O projeto terror é uma interface intuitiva que mostra os principais personagens
 
 ##
 
-### Requisitos
+### ⚙ Requisitos
 
 - Navegador da Web Moderno
 
 ##
 
-### Como rodar?
+### ⚒️ Como rodar?
 
 Basta acessar o projeto pelo link disponiblizado aqui nessa página e rodá-lo no navegador do seu agrado. Após isso
 o usuário terá acesso a interface em questão.
