@@ -24,10 +24,10 @@ O projeto terror é uma interface intuitiva que mostra os principais personagens
 
 ### 📚 Conceitos tratados nesse projeto
 
-- Responsividade <br>
-- DOM <br>
-- Functions e disparos de eventos <br>
-- Uso do flex <br>
+- Responsividade 
+- DOM 
+- Functions e disparos de eventos 
+- Uso do flex 
 - Media query
 
 ##
@@ -35,6 +35,13 @@ O projeto terror é uma interface intuitiva que mostra os principais personagens
 ### Requisitos
 
 - Navegador da Web Moderno
+
+##
+
+### Como rodar?
+
+Basta acessar o projeto pelo link disponiblizado aqui nessa página e rodá-lo no navegador do seu agrado. Após isso
+o usuário terá acesso a interface em questão.
 
 ##
 
