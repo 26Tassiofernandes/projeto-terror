@@ -18,25 +18,22 @@
 ##
 
 ### 📜 Descrição 
-<p>
-Tendo em vista a véspera de Halloween, criei uma interface intuitiva que mostra os principais personagens fictícios do cinema de terror, o usuário tem o poder de escolher qual personagem ele deseja através de botões. Projeto feito usando apenas HTML, CSS e JavaScript.
-</p>
+
+O projeto terror é uma interface intuitiva que mostra os principais personagens fictícios do cinema de terror, o usuário tem o poder de escolher qual personagem ele deseja através de botões. Projeto feito usando apenas HTML, CSS e JavaScript.
 
 ##
 
 ### 📚 Conceitos tratados nesse projeto
-<p>
-◦ <strong>Responsividade</strong> <br>
+
+ <strong>Responsividade</strong> <br>
 ◦ <strong>DOM</strong> <br>
 ◦ <strong>Functions e disparos de eventos</strong> <br>
 ◦ <strong>Uso do flex</strong> <br>
 ◦ <strong>Media query</strong>
-  
-</p>
 
 ##
 
 ### ✏️ Licença 
-<p>Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.</p>
+Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.
 
 ##
