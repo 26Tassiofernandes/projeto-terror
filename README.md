@@ -24,7 +24,10 @@ O projeto terror é uma interface intuitiva que mostra os principais personagens
 
 ### 📚 Conceitos tratados nesse projeto
 
-- Responsividade 
+- HTML
+- CSS
+- JavaScript
+- Responsividade
 - DOM 
 - Functions e disparos de eventos 
 - Uso do flex 
